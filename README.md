@@ -26,6 +26,7 @@
   </div>
 
  <div style="display: inline_block"><br>
+     <h2>Habilidades</h2>
    <img align="center" alt="lu-Html" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     
    <img align="center" alt="lu-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -53,6 +54,7 @@
   
  
 <div> <br>
+    <h2>Contacto</h2>
   <a href="https://www.linkedin.com/in/luciana-marin-fullstackdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marinperezluciana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  </div>
