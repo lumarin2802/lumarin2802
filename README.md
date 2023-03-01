@@ -1,12 +1,23 @@
 
+<div align="center">
+<h1>Hola, soy Luciana Marín Full stack developer💻</h1>
+<br>
+    <img  id="img" src="https://media4.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif?cid=ecf05e47m0v3g435y88wle5ipygo5r3ajpocfwtuqhw31mio&rid=giphy.gif&ct=g" alt="">
+ </div>
+ <div align="center">
+  <h2>"Resolving to do something only takes a moment, but it can determine the course of our life and future"</h2>
+</div>
+ <div>
+<h4>Sobre mí:</h4>
+<ul>
+<li> -🌍 Soy de Santana do Livramento, Brasil </li>
+<li> -💟 Me encanta programar </li>
+<li>-🔎 Me encanta investigar y aprender algo nuevo</li>
+<li>-🍕 Me gusta cocinar</li>
+<li>-📻 Me encanta leer y escuchar música en mi tiempo libre</li>
+</ul>
+</div>
 
-### <Hola, soy Luciana Marín Full stack developer  />
-#### Sobre mi:
-- 🌍 Soy de Santana do Livramento, Brasil
-- 💟 Me encanta programar 
-- 🔎 Me encanta investigar y aprender algo nuevo
-- 🍕 Me gusta cocinar
-- 📖📻 Me encanta leer y escuhar música en mi tiempo libre
 
 <div>
   <a href="https://github.com/lumarin2802">
@@ -41,7 +52,7 @@
   
   
  
-<div> 
+<div> <br>
   <a href="https://www.linkedin.com/in/luciana-marin-fullstackdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marinperezluciana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  </div>
